@@ -27,7 +27,7 @@ function App() {
 
   return (
     <Router>
-      <HashRouter basename=".">
+      <HashRouter basename="/">
         {load ? (
           <Preloader load={load} />
         ) : (
