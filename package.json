@@ -1,6 +1,6 @@
 {
-  "name": "Dhruv-portfolio",
   "homepage": "https://dmmoradiya.github.io/Dhurv_portfolio_react",
+  "name": "dhruv-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,7 +8,6 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
     "bootstrap": "^4.5.3",
-    "gh-pages": "^5.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
