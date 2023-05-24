@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Dhurv_portfolio_react/static/css/main.339c5bcb.chunk.css",
-    "main.js": "/Dhurv_portfolio_react/static/js/main.6bce9e77.chunk.js",
-    "main.js.map": "/Dhurv_portfolio_react/static/js/main.6bce9e77.chunk.js.map",
+    "main.js": "/Dhurv_portfolio_react/static/js/main.1ccd3c10.chunk.js",
+    "main.js.map": "/Dhurv_portfolio_react/static/js/main.1ccd3c10.chunk.js.map",
     "runtime-main.js": "/Dhurv_portfolio_react/static/js/runtime-main.d6f7d9c3.js",
     "runtime-main.js.map": "/Dhurv_portfolio_react/static/js/runtime-main.d6f7d9c3.js.map",
     "static/css/2.2280284b.chunk.css": "/Dhurv_portfolio_react/static/css/2.2280284b.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.2280284b.chunk.css",
     "static/js/2.7c6b50e5.chunk.js",
     "static/css/main.339c5bcb.chunk.css",
-    "static/js/main.6bce9e77.chunk.js"
+    "static/js/main.1ccd3c10.chunk.js"
   ]
 }
