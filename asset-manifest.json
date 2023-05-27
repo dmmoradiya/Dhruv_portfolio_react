@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dhruv_portfolio_react/static/css/main.339c5bcb.chunk.css",
-    "main.js": "/dhruv_portfolio_react/static/js/main.695aa769.chunk.js",
-    "main.js.map": "/dhruv_portfolio_react/static/js/main.695aa769.chunk.js.map",
+    "main.js": "/dhruv_portfolio_react/static/js/main.b4e49ab8.chunk.js",
+    "main.js.map": "/dhruv_portfolio_react/static/js/main.b4e49ab8.chunk.js.map",
     "runtime-main.js": "/dhruv_portfolio_react/static/js/runtime-main.c18996f9.js",
     "runtime-main.js.map": "/dhruv_portfolio_react/static/js/runtime-main.c18996f9.js.map",
     "static/css/2.2280284b.chunk.css": "/dhruv_portfolio_react/static/css/2.2280284b.chunk.css",
@@ -13,7 +13,7 @@
     "static/css/main.339c5bcb.chunk.css.map": "/dhruv_portfolio_react/static/css/main.339c5bcb.chunk.css.map",
     "static/js/2.542e5339.chunk.js.LICENSE.txt": "/dhruv_portfolio_react/static/js/2.542e5339.chunk.js.LICENSE.txt",
     "static/media/Dhruv.b6d66708.png": "/dhruv_portfolio_react/static/media/Dhruv.b6d66708.png",
-    "static/media/Dhruv_Resume.3069b8bf.pdf": "/dhruv_portfolio_react/static/media/Dhruv_Resume.3069b8bf.pdf",
+    "static/media/Dhruv_Resume.29d6b7c6.pdf": "/dhruv_portfolio_react/static/media/Dhruv_Resume.29d6b7c6.pdf",
     "static/media/Fooddlh.48365005.png": "/dhruv_portfolio_react/static/media/Fooddlh.48365005.png",
     "static/media/cryptotracker.9375d794.png": "/dhruv_portfolio_react/static/media/cryptotracker.9375d794.png",
     "static/media/developer.23e159be.jpg": "/dhruv_portfolio_react/static/media/developer.23e159be.jpg",
@@ -26,6 +26,6 @@
     "static/css/2.2280284b.chunk.css",
     "static/js/2.542e5339.chunk.js",
     "static/css/main.339c5bcb.chunk.css",
-    "static/js/main.695aa769.chunk.js"
+    "static/js/main.b4e49ab8.chunk.js"
   ]
 }
