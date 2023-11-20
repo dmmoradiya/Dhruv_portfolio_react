@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import { HashRouter } from "react-router-dom/cjs/react-router-dom.min";
 
 // import reportWebVitals from "./reportWebVitals";
 

@@ -51,19 +51,18 @@ export const PROJECTS = [
 export const SKILLS = [
   { name: "ReactJs", initialRating: 4 },
   { name: "Redux", initialRating: 4 },
+  { name: "Nodejs", initialRating: 3 },
   { name: "JavaScript", initialRating: 4 },
   { name: "TypeScript", initialRating: 3 },
   { name: "Html", initialRating: 4 },
   { name: "CSS", initialRating: 4 },
   { name: "Bootstrap", initialRating: 4 },
-  { name: "Nodejs", initialRating: 3 },
   { name: "Git", initialRating: 4 },
-  { name: "React-Native", initialRating: 2 },
   { name: "Problem Solving", initialRating: 4 },
   { name: "c", initialRating: 4 },
   { name: "c++", initialRating: 4 },
   { name: "java", initialRating: 3 },
-  { name: "Database", initialRating: 4 },
+  { name: "DBMS", initialRating: 4 },
 ];
 
 export const TOOLS = [
